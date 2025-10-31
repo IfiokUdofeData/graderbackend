@@ -28,7 +28,7 @@ def team(request):
 
 # 7. Blog Page
 def blog(request):
-    return HttpResponse("<h2>Welcome to our Blog! New posts coming soon.</h2>")
+    return HttpResponse("<h2>Welcome to our daverze! New posts coming soon.</h2>")
 
 # 8. API Data Example (uses the 'requests' library)
 def api_data(request):
